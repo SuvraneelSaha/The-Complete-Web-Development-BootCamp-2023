@@ -1,0 +1,30 @@
+Nslookup.io -- website for ip addresses for websites
+
+submarineCablemaps.com -- website to see under water submarineCablemaps
+
+How does the Internet Actually works : 
+the Internet works through wires that are connected with computers all around the world 
+each computer has a unique ip address which has been assigned by the ISP - ie Internet Service Provider 
+its like a unique address code for each our home . 
+
+Say for example - google the website has a similar type of ip address 142.250.188.14 it is the IP address
+
+computers that stay online 24/7 365 days to present the website we want to access 
+is known as Servers 
+
+Client --> ISP --> DNS server (Domain Name System ) Server 
+
+Example - Client --> wants to go to google.com ---> ISP --> DNS Server 
+Dns server will give the exact ip adrress to navigate to the google website 
+
+DNS server acts as a Phone book 
+
+dns server will send back the ip address through the browser to your computer so that you can access the website 
+then we can make a direct request to the ip adress here in the case is google.com
+
+Summarize : 
+Internet is a bunch of wires that connects every computer with each other 
+
+underseacables are the ones which connects every computer across oceans and continents 
+
+all we need is an ip adress so that we can access website and connect to other computers 
