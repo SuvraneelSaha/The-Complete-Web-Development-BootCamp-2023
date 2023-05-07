@@ -1,0 +1,53 @@
+Project IDEA : 
+An API built with users in mind: reliable, accurate, and easy-to-use
+IPinfo APi
+
+How do websites Actually works:
+
+
+dns server can look up for any ip adress for any website
+
+when we get the ip address from the dns server then we can hit up directly the website server 
+to see the website and the server will send all the files and data we need to see. to be rendered on the screen 
+
+
+data that we receive contains mainly of 3 types of files 
+html css and js 
+
+html is respnsible for the content of a website
+its like the brick which your house is made up of 
+
+html file contains the buttons images links 
+
+css - these are respnsible for the colour and style of the website
+ex - colour and shape of your house 
+it targets all the content made by the html and applies the styling 
+
+js- allows the website to have functionality 
+ex - adding light bulbs , gas cooker , laptops in a home 
+
+convers the static website into a functional website 
+ex - sending email , music , post an image in instagram 
+
+SO PUTTING ALL THESE TOGETHER : 
+
+so when the browser loads up the gogle home page 
+
+the html will make the content of the webpage 
+
+then css - it will modify the apperance of the webpage 
+
+js - browser gives the functionality ex - we can search terms which is the actual usage 
+
+COMBINED TOGETHER WE MAKE MODERN WEB APPLICATION 
+
+ we can change the local 
+
+ when we refresh we are asking the website to send html css and js files 
+ everything gets restored. so that we can render the website on our browser 
+
+ when we edit the website using the google developer tools 
+ what we are changing is the local version . and this doesnt gets saved in the server 
+ so the changes does not become permanent 
+
+ 
