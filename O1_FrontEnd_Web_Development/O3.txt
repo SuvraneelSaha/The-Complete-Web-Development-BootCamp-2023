@@ -1,0 +1,32 @@
+useful tips for learning to code : 
+
+[] type along with the tutorial . Code along with the tutor 
+
+[] tip : watch the video of the tutor ,  10 mins long 
+then stop watching , understand what is going on , why it is being written 
+what is the purpose of the code .explain to yourself or use feyamann technique to explain 
+Explain using your own examples your own words . 
+
+then go to you computer and try to replicate the code what happend in the 10 minutes 
+
+[] typing skills keybr.com - typing speed increase website 
+
+[] your main focus is to understand the code not to write the code fast . take your time understand the code so that you can 
+replicate or do the work in your own way without any help after each tutorial
+
+[] spaced repitation for difficult topics : when you come across a difficult topic , first you learn about it 
+then if you think that it is difficult to learn and its taking too much of time and still you cant understand it . so 
+learn it again after a week and in the meantime learn about the topic from various resources like youtube internet twitter blogs like medium or dev 
+
+[] learn to take notes in the cornell technique -- 1st topic 2nd note 3rd keywords or questions or recollections 4th Summarize
+
+[] Help : join communities to learn to code , when stuck ask google or chatgpt for learning purpose . 
+
+know how to use chatgpt to lear to code . 
+
+[] deliberate practice is the only way you can level up . if you do the same things over and over again you will be stuck and 
+you wont progress over time . so you need to do difficult challenges and do more of these challenges so that you master problem solving , how to google , how to 
+use chatgpt 
+
+that it 
+good luck coding 
